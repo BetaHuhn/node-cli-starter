@@ -1,3 +1,12 @@
+## [v1.0.4] - 2021-05-03
+
+[Release notes](https://github.com/BetaHuhn/node-cli-starter/releases/tag/v1.0.4) · [Compare](https://github.com/BetaHuhn/node-cli-starter/compare/v1.0.3...v1.0.4) · [Tag](https://github.com/BetaHuhn/node-cli-starter/tree/v1.0.4) · Archive ([zip](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.4.zip) · [tar.gz](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.4.tar.gz))
+
+### Dependency updates
+
+- [`a1fdf0d`](https://github.com/BetaHuhn/node-cli-starter/commit/a1fdf0d)  Bump eslint from 7.24.0 to 7.25.0
+- [`9a4415a`](https://github.com/BetaHuhn/node-cli-starter/commit/9a4415a)  Bump @vercel/ncc from 0.28.3 to 0.28.4
+
 ## [v1.0.3] - 2021-04-19
 
 [Release notes](https://github.com/BetaHuhn/node-cli-starter/releases/tag/v1.0.3) · [Compare](https://github.com/BetaHuhn/node-cli-starter/compare/v1.0.2...v1.0.3) · [Tag](https://github.com/BetaHuhn/node-cli-starter/tree/v1.0.3) · Archive ([zip](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.3.zip) · [tar.gz](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.3.tar.gz))
