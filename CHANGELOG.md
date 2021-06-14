@@ -1,3 +1,12 @@
+## [v1.0.8] - 2021-06-14
+
+[Release notes](https://github.com/BetaHuhn/node-cli-starter/releases/tag/v1.0.8) · [Compare](https://github.com/BetaHuhn/node-cli-starter/compare/v1.0.7...v1.0.8) · [Tag](https://github.com/BetaHuhn/node-cli-starter/tree/v1.0.8) · Archive ([zip](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.8.zip) · [tar.gz](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.8.tar.gz))
+
+### Dependency updates
+
+- [`679e1c3`](https://github.com/BetaHuhn/node-cli-starter/commit/679e1c3)  Bump eslint from 7.27.0 to 7.28.0
+- [`d9f4f4e`](https://github.com/BetaHuhn/node-cli-starter/commit/d9f4f4e)  Bump ora from 5.4.0 to 5.4.1
+
 ## [v1.0.7] - 2021-05-31
 
 [Release notes](https://github.com/BetaHuhn/node-cli-starter/releases/tag/v1.0.7) · [Compare](https://github.com/BetaHuhn/node-cli-starter/compare/v1.0.6...v1.0.7) · [Tag](https://github.com/BetaHuhn/node-cli-starter/tree/v1.0.7) · Archive ([zip](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.7.zip) · [tar.gz](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.7.tar.gz))
