@@ -1,3 +1,11 @@
+## [v1.0.9] - 2021-06-28
+
+[Release notes](https://github.com/BetaHuhn/node-cli-starter/releases/tag/v1.0.9) · [Compare](https://github.com/BetaHuhn/node-cli-starter/compare/v1.0.8...v1.0.9) · [Tag](https://github.com/BetaHuhn/node-cli-starter/tree/v1.0.9) · Archive ([zip](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.9.zip) · [tar.gz](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.9.tar.gz))
+
+### Dependency updates
+
+- [`ee06061`](https://github.com/BetaHuhn/node-cli-starter/commit/ee06061)  Bump eslint from 7.28.0 to 7.29.0
+
 ## [v1.0.8] - 2021-06-14
 
 [Release notes](https://github.com/BetaHuhn/node-cli-starter/releases/tag/v1.0.8) · [Compare](https://github.com/BetaHuhn/node-cli-starter/compare/v1.0.7...v1.0.8) · [Tag](https://github.com/BetaHuhn/node-cli-starter/tree/v1.0.8) · Archive ([zip](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.8.zip) · [tar.gz](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.8.tar.gz))
