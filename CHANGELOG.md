@@ -1,3 +1,11 @@
+## [v1.0.13] - 2021-08-16
+
+[Release notes](https://github.com/BetaHuhn/node-cli-starter/releases/tag/v1.0.13) · [Compare](https://github.com/BetaHuhn/node-cli-starter/compare/v1.0.12...v1.0.13) · [Tag](https://github.com/BetaHuhn/node-cli-starter/tree/v1.0.13) · Archive ([zip](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.13.zip) · [tar.gz](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.13.tar.gz))
+
+### Dependency updates
+
+- [`19a2aeb`](https://github.com/BetaHuhn/node-cli-starter/commit/19a2aeb)  Bump @vercel/ncc from 0.29.0 to 0.29.1
+
 ## [v1.0.12] - 2021-08-09
 
 [Release notes](https://github.com/BetaHuhn/node-cli-starter/releases/tag/v1.0.12) · [Compare](https://github.com/BetaHuhn/node-cli-starter/compare/v1.0.11...v1.0.12) · [Tag](https://github.com/BetaHuhn/node-cli-starter/tree/v1.0.12) · Archive ([zip](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.12.zip) · [tar.gz](https://github.com/BetaHuhn/node-cli-starter/archive/v1.0.12.tar.gz))
