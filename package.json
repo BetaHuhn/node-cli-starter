@@ -26,7 +26,7 @@
   "dependencies": {
     "commander": "^7.1.0",
     "configstore": "^5.0.1",
-    "dotenv": "^8.5.1",
+    "dotenv": "^16.0.3",
     "ora": "^5.4.1",
     "prompt-sync": "^4.2.0"
   },
